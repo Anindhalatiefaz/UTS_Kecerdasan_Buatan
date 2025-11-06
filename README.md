@@ -1,10 +1,11 @@
 # UTS_Kecerdasan_Buatan
 # Deteksi Ujaran Kebencian (Hate Speech Detection)  
-Ujian Tengah Semester - Mata Kuliah Kecerdasan Buatan  
-Program Studi: Teknik Informatika  
-Kelas: TI.22.A.SE.1  
-Nama: Anindha Latiefa Zahra  
-Dosen Pengampu: Dr. Muhamad Fatchan, S.Kom., M.Kom. 
+Ujian Tengah Semester - Mata Kuliah Kecerdasan Buatan    
+Nama: Anindha Latiefa Zahra
+NIM : 312210323
+Kelas: TI.22.A.SE.1 
+Dosen Pengampu: Dr. Muhamad Fatchan, S.Kom., M.Kom.
+Program Studi: Teknik Informatika 
 Universitas Pelita Bangsa
 
 ## Latar Belakang
