@@ -1,12 +1,12 @@
 # UTS_Kecerdasan_Buatan
 # Deteksi Ujaran Kebencian (Hate Speech Detection)  
-Ujian Tengah Semester - Mata Kuliah Kecerdasan Buatan    
-Nama: Anindha Latiefa Zahra
-NIM : 312210323
-Kelas: TI.22.A.SE.1 
-Dosen Pengampu: Dr. Muhamad Fatchan, S.Kom., M.Kom.
-Program Studi: Teknik Informatika 
-Universitas Pelita Bangsa
+## Ujian Tengah Semester - Mata Kuliah Kecerdasan Buatan    
+### Nama: Anindha Latiefa Zahra
+### NIM : 312210323
+### Kelas: TI.22.A.SE.1 
+### Dosen Pengampu: Dr. Muhamad Fatchan, S.Kom., M.Kom.
+### Program Studi: Teknik Informatika 
+### Universitas Pelita Bangsa
 
 ## Latar Belakang
 Media sosial telah menjadi sarana komunikasi utama masyarakat modern. Namun, meningkatnya penggunaan media sosial juga memunculkan berbagai bentuk penyalahgunaan bahasa, termasuk ujaran kebencian (hate speech). Ujaran kebencian dapat menimbulkan perpecahan sosial dan berdampak negatif terhadap individu maupun kelompok tertentu.
